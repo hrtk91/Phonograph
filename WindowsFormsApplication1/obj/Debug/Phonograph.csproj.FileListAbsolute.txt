@@ -1,0 +1,63 @@
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.exe.config
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.exe
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.pdb
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.MainForm.resources
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.ParameterForm.resources
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.PlayForm.resources
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.RecForm.resources
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.Properties.Resources.resources
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.csproj.GenerateResource.Cache
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.exe
+C:\Users\taminato\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.exe.config
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.MainForm.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.ParameterForm.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.PlayForm.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.RecForm.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.Properties.Resources.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.csproj.GenerateResource.Cache
+C:\Users\taminato\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.csprojResolveAssemblyReference.cache
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.exe.config
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.exe
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.pdb
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.exe
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phonograph.pdb
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.csprojResolveAssemblyReference.cache
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.MainForm.resources
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.ParameterForm.resources
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.PlayForm.resources
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.RecForm.resources
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.Properties.Resources.resources
+C:\Users\hirotaka\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Phonograph.csproj.GenerateResource.Cache
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\bin\Debug\Phonograph.exe.config
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.exe
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.pdb
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\bin\Debug\Phonograph.exe
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\bin\Debug\Phonograph.pdb
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.csprojResolveAssemblyReference.cache
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.MainForm.resources
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.ParameterForm.resources
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.PlayForm.resources
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.RecForm.resources
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.Properties.Resources.resources
+C:\Users\hirotaka\Desktop\提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.csproj.GenerateResource.Cache
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\bin\Debug\Phonograph.exe.config
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.exe
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.pdb
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\bin\Debug\Phonograph.exe
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\bin\Debug\Phonograph.pdb
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.csprojResolveAssemblyReference.cache
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.MainForm.resources
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.ParameterForm.resources
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.PlayForm.resources
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.RecForm.resources
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.Properties.Resources.resources
+F:\退避\砂川さんに提出するもの\音響解析システム\WindowsFormsApplication1\obj\Debug\Phonograph.csproj.GenerateResource.Cache
+F:\workspace\csharp\録音再生システム\WindowsFormsApplication1\bin\Debug\Phonograph.exe.config
+F:\workspace\csharp\録音再生システム\WindowsFormsApplication1\obj\Debug\Phonograph.exe
+F:\workspace\csharp\録音再生システム\WindowsFormsApplication1\obj\Debug\Phonograph.pdb
